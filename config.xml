@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>radi_duplicate_feature</name>
+	<displayName><![CDATA[رادی فیتچر کپی]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[کپی کردن از ویژگی های محصول و انتقال به محصول دیگر]]></description>
+	<author><![CDATA[Raditoweb]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
